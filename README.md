@@ -2,9 +2,9 @@
 
 **`Engenheiro de Dados`**
 
-Sou formado em Engenharia de Telecomunicações e atualmente estou em transição para Engenharia de Dados, com experiência prática na criação de dashboards interativos, automação de indicadores e análise de dados utilizando Power BI e Excel.
+Sou formado em Engenharia de Telecomunicações e atualmente sou graduando em Engenharia de Computação pela USF, com experiência prática na criação de dashboards interativos, automação de indicadores e análise de dados utilizando Power BI e Excel.
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e PowerBI**
+- 🌱 Atualmente estou aprendendo **Python, SQL e PowerBI, C**
 
 - 📫 E-mail: **mfajunior1@gmail.com**
 
