@@ -49,14 +49,6 @@ Sou formado em Engenharia de Telecomunicações e atualmente sou graduando em En
 />
 <img 
     align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="50px" 
@@ -65,19 +57,27 @@ Sou formado em Engenharia de Telecomunicações e atualmente sou graduando em En
 />
 <img 
     align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"           
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 <br/>
 <br/>
