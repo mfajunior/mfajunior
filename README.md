@@ -1,10 +1,12 @@
 <h1 align="center">Milton Faria Andrade Júnior</h1>
 
-**`Engenheiro de Dados`**
+**`Engenheiro de Computação`**
 
 Sou formado em Engenharia de Telecomunicações e atualmente sou graduando em Engenharia de Computação pela USF, com experiência prática na criação de dashboards interativos, automação de indicadores e análise de dados utilizando Power BI e Excel.
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e PowerBI, C**
+- 💼 Estgiário em Sistema TOTVS RM
+
+- 🌱 Atualmente estou aprendendo **Python, SQL, JavaScript, React**
 
 - 📫 E-mail: **mfajunior1@gmail.com**
 
@@ -39,11 +41,11 @@ Sou formado em Engenharia de Telecomunicações e atualmente sou graduando em En
 />
 <img 
     align="left" 
-    alt="Apache" 
-    title="Apache"
+    alt="JavaScript" 
+    title="JavaScript"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"                 
 />
 <img 
     align="left" 
@@ -55,11 +57,11 @@ Sou formado em Engenharia de Telecomunicações e atualmente sou graduando em En
 />
 <img 
     align="left" 
-    alt="MongoDB"
-    title="MongoDB" 
+    alt="React"
+    title="React" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"           
 />
 <img 
     align="left" 
@@ -71,11 +73,11 @@ Sou formado em Engenharia de Telecomunicações e atualmente sou graduando em En
 />
 <img 
     align="left" 
-    alt="Oracle" 
-    title="Oracle"
+    alt="CSS" 
+    title="CSS"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"           
 />
 <br/>
 <br/>
