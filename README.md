@@ -1,109 +1,62 @@
-<h1 align="center">Milton Faria Andrade Júnior</h1>
+# Milton Faria Andrade Júnior
 
-**`Engenheiro de Computação`**
+**`Desenvolvedor Fullstack`**
 
-Sou formado em Engenharia de Telecomunicações e atualmente sou graduando em Engenharia de Computação pela USF, com experiência prática na criação de dashboards interativos, automação de indicadores e análise de dados utilizando Power BI e Excel.
+Engenheiro de Telecomunicações pelo Inatel e graduando em Engenharia da Computação pela USF. Trabalho com desenvolvimento fullstack com as stacks React Native, TypeScript, Node.js e MongoDB.
 
-- 💼 Estgiário em Sistema TOTVS RM
+Antes da transição para desenvolvimento, passei seis anos em engenharia de redes móveis, liderando uma equipe de mais de 20 pessoas em projetos 4G e 5G. Trouxe dessa etapa o hábito de documentar decisão técnica e de pensar sistema antes de escrever código.
 
-- 🌱 Atualmente estou aprendendo **Python, SQL, JavaScript, React**
+- 💼 Estagiário em Sistemas TOTVS RM na Merakx Consultoria
+- 🔬 Iniciação Científica na USF: aplicação mobile de controle de presença com QR Code dinâmico e validação geoespacial *(repositório privado por política da universidade)*
+- 🌐 Inglês avançado
+- 📫 **mfajunior1@gmail.com**
+- 📄 [LinkedIn](https://www.linkedin.com/in/miltonfaria/)
 
-- 📫 E-mail: **mfajunior1@gmail.com**
+---
 
-- 📄 Sobre minhas experiências: [https://www.linkedin.com/in/miltonfaria/](https://www.linkedin.com/in/miltonfaria/)
-<!--
-<p align="left">
-    <a href="https://github.com/mfajunior?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mfajunior?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mfajunior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
--->
-### Linguagens e Tecnologias:
+### Projetos
 
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"                 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"           
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"           
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
-/>
-<br/>
-<br/>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Pipeline ETL — Commodities e Criptoativos](https://github.com/mfajunior/) | Ingestão via APIs, arquitetura em camadas bronze/silver/gold e análise automatizada por agente de IA | Python · PostgreSQL · n8n |
+| [Chatbot Inteligente](https://github.com/mfajunior/) | Atendimento inicial e agendamento automatizado, com suporte a texto e áudio | Python · n8n · IA |
+| [Estrutura de Dados](https://github.com/mfajunior/Projeto-estrutura-de-dados) | Programa acadêmico aplicando estruturas de dados a um problema do cotidiano | C |
 
-### Conecte-se comigo:
-<p align="left">
-<a href="https://www.linkedin.com/in/miltonfaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miltonfaria" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/miltonfaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/miltonfaria" height="30" width="40" /></a>
-</p>
+---
 
-<!--### 📊 Estatísticas
+### Linguagens e Tecnologias
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mfajunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+**Mobile e Front-end**
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfajunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img align="left" alt="React Native" title="React Native" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-</p>
+<br clear="left" />
+<br />
+
+**Back-end e Dados**
+
+<img align="left" alt="Node.js" title="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="MongoDB" title="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<br clear="left" />
+<br />
+
+**Infraestrutura**
+
+<img align="left" alt="Docker" title="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="AWS" title="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br clear="left" />
+
+---
+
+### Conecte-se
+
+[LinkedIn](https://www.linkedin.com/in/miltonfaria/) · [Kaggle](https://www.kaggle.com/miltonfaria) · [DataCamp](https://www.datacamp.com/portfolio/miltonf)
